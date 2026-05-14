@@ -71,6 +71,9 @@ Connect your USB-to-TTL adapter (**set to 3.3V**) as follows:
 | GND | GND |
 | 3.3V | VCC (3V3) |
 
+<img width="350" height="254" alt="WhatsApp Image 2026-05-12 at 9 54 24 PM" src="https://github.com/user-attachments/assets/14651472-8785-431a-92f6-402cb3bba3e3" />
+
+
 > ⚠️ Do **NOT** use 5V.
 
 No reset wire is needed. You can simply leave the 3.3V disconnected initially, then plug it in when starting the flash process.
