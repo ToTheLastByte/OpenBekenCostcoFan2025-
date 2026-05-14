@@ -1,6 +1,6 @@
 # OpenBeken Costco Fan 2025
 
-After a few days going down the Reddit rabbit hole, and with these two repositories to thank and I take a lot of inspiration from them so please check them out:
+After a few days going down the Reddit rabbit hole, I take a lot of inspiration from these two repositories so please check them out and I offer my thanks:
 
 - https://github.com/surshis/OpenBekenCostcoFan
 - https://github.com/phdindota/Omnibreeze-esphome
@@ -62,6 +62,8 @@ To flash the device, solder or temporarily connect the following 4 UART connecti
 
 ### Connection
 
+<img width="350" height="254" alt="WhatsApp Image 2026-05-12 at 9 54 24 PM" src="https://github.com/user-attachments/assets/14651472-8785-431a-92f6-402cb3bba3e3" />
+
 Connect your USB-to-TTL adapter (**set to 3.3V**) as follows:
 
 | USB TTL Adapter | FCM242D Module |
@@ -70,9 +72,6 @@ Connect your USB-to-TTL adapter (**set to 3.3V**) as follows:
 | RX | TX |
 | GND | GND |
 | 3.3V | VCC (3V3) |
-
-<img width="350" height="254" alt="WhatsApp Image 2026-05-12 at 9 54 24 PM" src="https://github.com/user-attachments/assets/14651472-8785-431a-92f6-402cb3bba3e3" />
-
 
 > ⚠️ Do **NOT** use 5V.
 
